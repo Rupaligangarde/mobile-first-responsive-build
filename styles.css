@@ -1,7 +1,7 @@
 /* variables */
 :root {
     --primary: #FFC636;
-    --secondary: #0A0B5B;
+    --secondary: #090435;
 }
 
 /*reset*/
@@ -188,6 +188,9 @@ input, textarea {
     margin-bottom: 0;
 }
 
+#contact p{
+    padding-top: 10px;
+}
 #contact form {
     width: 80%;
     max-width: 400px;
